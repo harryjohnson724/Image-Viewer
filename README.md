@@ -16,3 +16,5 @@ Features
 How to Run 
 
 1. run command : python ImageViewer.py
+
+A sample image is also given to test out the application.
